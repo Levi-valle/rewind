@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "Aura",
-			"Enabled": false
+			"Enabled": true
 		}
 	]
 }
